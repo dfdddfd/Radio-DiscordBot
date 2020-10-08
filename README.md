@@ -9,3 +9,7 @@ config.py를 수정합니다
 
 run.py를 실행합니다
 
+# 사용한 오픈소스
+[포차님의 PythonLavalink](https://github.com/fxrcha/PythonLavalink)
+
+[MiniBox님의 미니봇 오픈 소스](https://github.com/minibox24/MiniBOT)
