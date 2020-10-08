@@ -13,3 +13,7 @@ run.py를 실행합니다
 [포차님의 PythonLavalink](https://github.com/fxrcha/PythonLavalink)
 
 [MiniBox님의 미니봇 오픈 소스](https://github.com/minibox24/MiniBOT)
+
+# 주의 사항
+반드시 Lavalink.jar를 먼저 실행하고 run.py를 실행해주세요
+
